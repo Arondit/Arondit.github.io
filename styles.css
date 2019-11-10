@@ -518,4 +518,31 @@ ol{
         color: white;
         text-align: center;
     }
+
+    .slider_img {
+        max-width: 300px;
+        height: auto;
+        overflow: visible;
+    }
+    .slider_box {
+        width: 80%;
+        margin: 0 auto;
+        position: relative;
+    }
+    .arrow {
+        position: absolute;
+        margin: 10px;
+        width: 60px;
+    }
+    .left_arrow {
+        left: -80px;
+        top: 40%;
+    }
+    .right_arrow {
+        right: -80px;
+        top: 40%;
+    }
+    .arrow:hover {
+        cursor: pointer;
+    }
     
