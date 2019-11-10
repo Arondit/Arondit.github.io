@@ -514,4 +514,8 @@ ol{
     .logo {
       width: 80px;
     }
+    .products_text {
+        color: white;
+        text-align: center;
+    }
     
